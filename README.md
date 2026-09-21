@@ -1,20 +1,58 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Staffingbees CPI Management
 
-# Run and deploy your AI Studio app
+A modern web application for CPI (Cost Per Install / Consumer Price Index / Continuous Process Improvement - customize as needed) Management for Staffingbees, built with React, Redux Toolkit, Tailwind CSS, Vite, and an Express backend.
 
-This contains everything you need to run your app locally.
+## 🚀 Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/a0aee935-be43-4c09-aaf6-b02489dec458
+- **Frontend:** React 19, Redux Toolkit, React Router, Tailwind CSS, Vite, Framer Motion, Lucide React
+- **Backend:** Node.js, Express, TSX
+- **AI Integration:** @google/genai
+- **Language:** TypeScript
 
-## Run Locally
+## 📋 Prerequisites
 
-**Prerequisites:**  Node.js
+Make sure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- npm (or bun/yarn)
 
+## 🛠️ Installation & Setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Nagendra061/staffingbees_CPI_management.git
+   cd staffingbees_CPI_management
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Environment Variables:**
+   Copy the `.env.example` file to `.env` or `.env.local` and add the necessary values (like your Gemini API Key if used).
+   ```bash
+   cp .env.example .env
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+   This will start both the frontend Vite server and the backend Express server concurrently (via `server.ts`).
+
+## 📦 Available Scripts
+
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the app for production to the `dist` folder.
+- `npm start`: Runs the built production server.
+- `npm run preview`: Previews the production build locally.
+- `npm run lint`: Runs TypeScript type-checking.
+- `npm run clean`: Removes the `dist` folder and server artifacts.
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
