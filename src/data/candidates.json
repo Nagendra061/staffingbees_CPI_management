@@ -1,0 +1,23 @@
+{
+  "id": null,
+  "hasUploadedResume": false,
+  "name": "",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "headline": "",
+  "currentRole": "",
+  "targetRole": "",
+  "targetIndustry": "",
+  "experience": "",
+  "experienceYears": "",
+  "targetSalary": "",
+  "experienceHistory": [],
+  "skills": [],
+  "education": [],
+  "certifications": [],
+  "bio": "",
+  "status": "Awaiting Resume Upload",
+  "programTier": "Career Success Accelerator",
+  "joinedDate": ""
+}

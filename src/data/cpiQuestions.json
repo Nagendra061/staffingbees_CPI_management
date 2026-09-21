@@ -1,0 +1,144 @@
+[
+  {
+    "id": "q1",
+    "dimension": "Market Fit",
+    "prompt": "How closely do your verified skills and certifications match current employer requisitions in your target industry?",
+    "options": [
+      { "text": "Basic introductory familiarity with general terminology", "score": 60 },
+      { "text": "Intermediate skill set matching standard baseline requirements", "score": 75 },
+      { "text": "Strong demonstrable alignment with modern toolstacks and domain workflows", "score": 90 },
+      { "text": "Advanced specialty mastery exceeding typical market requisitions", "score": 100 }
+    ]
+  },
+  {
+    "id": "q2",
+    "dimension": "Intent",
+    "prompt": "How clearly defined is your commitment, daily job search schedule, and target outcome?",
+    "options": [
+      { "text": "Exploring options casually without fixed daily schedule", "score": 65 },
+      { "text": "Dedicated weekly job search hours with moderate focus", "score": 80 },
+      { "text": "Structured daily search regimen with clear targets and metrics", "score": 95 }
+    ]
+  },
+  {
+    "id": "q3",
+    "dimension": "Communication",
+    "prompt": "How effectively do you articulate complex domain findings to executive and non-technical stakeholders?",
+    "options": [
+      { "text": "Tend to speak in dense technical jargon; struggle with summaries", "score": 65 },
+      { "text": "Adequately convey ideas but could sharpen executive conciseness", "score": 75 },
+      { "text": "Deliver crisp, data-backed narratives tailored to the listener", "score": 90 },
+      { "text": "Expert storyteller able to persuade cross-functional executives", "score": 100 }
+    ]
+  },
+  {
+    "id": "q4",
+    "dimension": "Adaptability",
+    "prompt": "When project specifications or tech stacks shift unexpectedly midway through a sprint, how do you respond?",
+    "options": [
+      { "text": "Experience initial resistance and need substantial onboarding time", "score": 65 },
+      { "text": "Pivot smoothly within a few days once documentation is clarified", "score": 85 },
+      { "text": "Thrive amidst ambiguity and help teammates adapt to changing requirements", "score": 95 }
+    ]
+  },
+  {
+    "id": "q5",
+    "dimension": "Problem Solving",
+    "prompt": "How do you approach a severe data anomaly or systemic workflow failure with minimal initial documentation?",
+    "options": [
+      { "text": "Escalate immediately and wait for senior guidance", "score": 65 },
+      { "text": "Investigate common failure points and apply standard workarounds", "score": 80 },
+      { "text": "Systematically isolate root causes using hypothesis testing and validation", "score": 92 }
+    ]
+  },
+  {
+    "id": "q6",
+    "dimension": "Collaboration",
+    "prompt": "How effectively do you integrate into cross-functional teams with conflicting priorities?",
+    "options": [
+      { "text": "Prefer isolated individual contribution with minimal handoffs", "score": 65 },
+      { "text": "Cooperative participant who executes assigned deliverables", "score": 80 },
+      { "text": "Proactive bridge-builder fostering team consensus and mutual support", "score": 95 }
+    ]
+  },
+  {
+    "id": "q7",
+    "dimension": "Reliability",
+    "prompt": "What is your track record for meeting agreed commitments, deadlines, and delivery milestones?",
+    "options": [
+      { "text": "Occasionally miss deadlines when unexpected blockers arise", "score": 70 },
+      { "text": "Meet deadlines reliably with occasional advance notification of delays", "score": 85 },
+      { "text": "Rock-solid reliability; always deliver ahead or on schedule with high precision", "score": 98 }
+    ]
+  },
+  {
+    "id": "q8",
+    "dimension": "Professionalism",
+    "prompt": "How do you maintain compliance, confidentiality, punctuality, and workplace etiquette under pressure?",
+    "options": [
+      { "text": "Maintain basic standards during normal operational periods", "score": 75 },
+      { "text": "Consistently professional, punctual, and respectful across all interactions", "score": 90 },
+      { "text": "Exemplary standard bearer for ethical conduct, compliance, and tact", "score": 100 }
+    ]
+  },
+  {
+    "id": "q9",
+    "dimension": "Learning Agility",
+    "prompt": "How quickly do you adopt and achieve proficiency in unfamiliar tools, frameworks, or domain regulations?",
+    "options": [
+      { "text": "Need structured formal training courses before feeling competent", "score": 70 },
+      { "text": "Self-study through tutorials and documentation within 2-3 weeks", "score": 85 },
+      { "text": "Rapid independent learner applying new technology productively in days", "score": 95 }
+    ]
+  },
+  {
+    "id": "q10",
+    "dimension": "Flexibility",
+    "prompt": "How open are you to hybrid arrangements, varied shift hours, or diverse cross-functional tasks?",
+    "options": [
+      { "text": "Strictly limited to a specific rigid schedule and scope", "score": 65 },
+      { "text": "Flexible within reasonable boundaries and advance notice", "score": 85 },
+      { "text": "Highly accommodating of diverse work modes and team arrangements", "score": 95 }
+    ]
+  },
+  {
+    "id": "q11",
+    "dimension": "Initiative",
+    "prompt": "When you observe an inefficient manual process, what action do you take?",
+    "options": [
+      { "text": "Follow existing procedure unless instructed otherwise by leadership", "score": 65 },
+      { "text": "Suggest improvements during team retrospectives or 1-on-1s", "score": 80 },
+      { "text": "Prototype an automated solution or workflow fix and propose it to the team", "score": 95 }
+    ]
+  },
+  {
+    "id": "q12",
+    "dimension": "Give-Back Orientation",
+    "prompt": "How actively do you support peers, mentor junior teammates, or share knowledge with the community?",
+    "options": [
+      { "text": "Focus primarily on own individual responsibilities and assignments", "score": 65 },
+      { "text": "Help teammates when directly approached with questions", "score": 80 },
+      { "text": "Routinely run internal knowledge-sharing sessions or open-source tutorials", "score": 95 }
+    ]
+  },
+  {
+    "id": "q13",
+    "dimension": "Interview Readiness",
+    "prompt": "How prepared are you to deliver polished, structured STAR responses to challenging behavioral and technical questions?",
+    "options": [
+      { "text": "Experience noticeable anxiety and struggle to recall structured case examples", "score": 65 },
+      { "text": "Know the STAR framework but need refinement on metrics and executive impact", "score": 75 },
+      { "text": "Fluid, rehearsed, high-impact communicator with confident delivery", "score": 92 }
+    ]
+  },
+  {
+    "id": "q14",
+    "dimension": "Career Direction",
+    "prompt": "How clear is your 1-3 year professional development roadmap and industry focus?",
+    "options": [
+      { "text": "Uncertain between multiple divergent career tracks", "score": 65 },
+      { "text": "Defined target role with a general sense of required milestones", "score": 85 },
+      { "text": "Crystal clear career objective with targeted credentials and employer criteria", "score": 95 }
+    ]
+  }
+]

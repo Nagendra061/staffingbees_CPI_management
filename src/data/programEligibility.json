@@ -1,0 +1,114 @@
+{
+  "eligibilityStatus": "Program Requirements In Progress",
+  "completionPercentage": 0,
+  "conditions": [
+    {
+      "id": "c1",
+      "name": "CPI Benchmark Eligibility",
+      "required": "Minimum Overall CPI score of 80/100",
+      "current": "Awaiting initial assessment (≥80/100 required)",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c2",
+      "name": "Required Technical & Domain Training",
+      "required": "Minimum 80% completion of agreed technical curriculum",
+      "current": "0% completed",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c3",
+      "name": "Attendance at Coaching Sessions",
+      "required": "Minimum 90% attendance at scheduled expert sessions",
+      "current": "Awaiting first scheduled advisory session",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c4",
+      "name": "Agreed Application Volume",
+      "required": "Submit minimum 5 qualified applications across active sprint weeks",
+      "current": "0 submitted",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c5",
+      "name": "Candidate Responsiveness SLA",
+      "required": "Respond to employers and coaches within 24 business hours",
+      "current": "Pending employer outreach initiation",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c6",
+      "name": "Interview Preparation & Participation",
+      "required": "Complete at least 3 formal mock simulations and attend scheduled interviews",
+      "current": "0 of 3 simulations completed",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c7",
+      "name": "SMART Plan Accountability",
+      "required": "Active weekly progress updates and SMART milestone check-ins",
+      "current": "Awaiting initial SMART plan objectives",
+      "status": "In Progress",
+      "isMet": false
+    },
+    {
+      "id": "c8",
+      "name": "Verified Resume & Profile Alignment",
+      "required": "Complete resume ingestion, skills verification, and career goal targeting",
+      "current": "Pending resume upload",
+      "status": "In Progress",
+      "isMet": false
+    }
+  ],
+  "careerAccessScholarship": {
+    "status": "Open for Applications (Need-Based Career Grant)",
+    "coverage": "Up to 60% of specialized training and coaching fees covered by Staffing Bees Foundation",
+    "sponsoredServices": [
+      "CPI Diagnostic & Continuous Benchmarking",
+      "Technical Sprints with Domain Specialists",
+      "Interview Coaching with Director of Talent",
+      "Success Management post-placement"
+    ],
+    "scholarshipProgress": 0
+  },
+  "paymentOptions": {
+    "selectedPlan": "Installments",
+    "plans": [
+      {
+        "id": "pay-upfront",
+        "name": "Pay Upfront",
+        "description": "One-time comprehensive enrollment covering all 7 development service layers.",
+        "discount": "15% Program Discount",
+        "terms": "Full access immediately"
+      },
+      {
+        "id": "pay-installments",
+        "name": "Monthly Milestone Installments",
+        "description": "Spread program contributions across 4 milestone phases tied to your SMART plan.",
+        "discount": "Zero Interest",
+        "terms": "4 installments linked to weekly progress"
+      },
+      {
+        "id": "pay-bnpl",
+        "name": "Buy Now, Pay Later (Career Success Deferred)",
+        "description": "Pay only a nominal onboarding fee; remainder payable upon verified job offer.",
+        "discount": "Outcome-Aligned",
+        "terms": "Subject to Program Eligibility conditions"
+      },
+      {
+        "id": "pay-modular",
+        "name": "Modular Services (A la Carte)",
+        "description": "Select and pay only for individual services (e.g., Interview Prep or Resume Audit only).",
+        "discount": "Pay per module",
+        "terms": "Customized flex bundle"
+      }
+    ]
+  }
+}

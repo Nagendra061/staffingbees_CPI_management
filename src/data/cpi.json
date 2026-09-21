@@ -1,0 +1,92 @@
+{
+  "overallScore": 0,
+  "lastAssessmentDate": null,
+  "historicalScores": [],
+  "dimensions": {
+    "Market Fit": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Intent": {
+      "score": 0,
+      "benchmark": 85,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Communication": {
+      "score": 0,
+      "benchmark": 82,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Adaptability": {
+      "score": 0,
+      "benchmark": 78,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Problem Solving": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Collaboration": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Reliability": {
+      "score": 0,
+      "benchmark": 85,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Professionalism": {
+      "score": 0,
+      "benchmark": 82,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Learning Agility": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Technical Execution": {
+      "score": 0,
+      "benchmark": 85,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Domain Authority": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Interview Readiness": {
+      "score": 0,
+      "benchmark": 82,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Career Marketing": {
+      "score": 0,
+      "benchmark": 80,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    },
+    "Leadership & Initiative": {
+      "score": 0,
+      "benchmark": 78,
+      "category": "Pending Assessment",
+      "summary": "Awaiting initial candidate assessment."
+    }
+  },
+  "developmentRoadmaps": []
+}

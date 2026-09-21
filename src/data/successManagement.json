@@ -1,0 +1,45 @@
+{
+  "currentStage": "Awaiting Initial Employer Pipeline",
+  "assignedSupportLead": "Marcus Vance (Career Counselor)",
+  "assignedExecutiveCoach": "Elena Rostova (Career Coach)",
+  "targetPlacementDate": "Within 90 Days of Enrollment",
+  "currentObjectives": [
+    { "id": "obj-1", "title": "Establish verified candidate profile & resume ingestion", "status": "In Progress" },
+    { "id": "obj-2", "title": "Complete 14-dimension CPI employability assessment", "status": "In Progress" },
+    { "id": "obj-3", "title": "Launch targeted employer pipeline and applications", "status": "Pending" }
+  ],
+  "postPlacementRoadmap": [
+    {
+      "phase": "Days 1 - 30",
+      "focus": "Assimilation & Cultural Alignment",
+      "activities": [
+        "Bi-weekly check-in call with Staffing Bees Career Coach",
+        "Stakeholder mapping and early quick-win identification",
+        "Review of team dynamics and reporting expectations"
+      ]
+    },
+    {
+      "phase": "Days 31 - 60",
+      "focus": "Execution & Performance Benchmarking",
+      "activities": [
+        "First 60-day performance review reflection with Mentor",
+        "Technical competency calibration",
+        "Addressing any operational blockers"
+      ]
+    },
+    {
+      "phase": "Days 61 - 90",
+      "focus": "Autonomy & Long-term Growth Vector",
+      "activities": [
+        "90-day milestone celebration & retention audit",
+        "Formulate year-1 promotion and impact strategy",
+        "Transition to Alumni Mentorship Network"
+      ]
+    }
+  ],
+  "openActions": [
+    { "id": "act-1", "task": "Debrief with executive coach following interview rounds", "deadline": "Post-Interview", "status": "Pending" },
+    { "id": "act-2", "task": "Submit compensation negotiation parameters", "deadline": "Pre-Offer", "status": "Open" }
+  ],
+  "nextMilestone": "First formal employer interview and placement offer stage"
+}

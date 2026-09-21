@@ -1,0 +1,6 @@
+{
+  "name": "Staffing Bees - Career Success Management Platform",
+  "description": "A comprehensive Career Success Management Platform to assess employability (CPI), identify gaps, improve capabilities, align with experts, manage job search, and track progress toward career goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

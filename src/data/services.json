@@ -1,0 +1,79 @@
+[
+  {
+    "id": "srv-01",
+    "name": "Career Counseling",
+    "status": "Active",
+    "assignedExpertId": "exp-01",
+    "assignedExpertName": "Marcus Vance",
+    "progress": 85,
+    "nextActivity": "Quarterly target milestone review and compensation benchmark validation",
+    "description": "Comprehensive career trajectory planning, goal structuring, and market fit validation.",
+    "tier": "Core Service"
+  },
+  {
+    "id": "srv-02",
+    "name": "Career Coaching",
+    "status": "Active",
+    "assignedExpertId": "exp-02",
+    "assignedExpertName": "Elena Rostova",
+    "progress": 70,
+    "nextActivity": "Executive communication drill and stakeholder slide review",
+    "description": "Weekly accountability sessions, communication enhancement, and confidence coaching.",
+    "tier": "Core Service"
+  },
+  {
+    "id": "srv-03",
+    "name": "Industry Mentoring",
+    "status": "Selected",
+    "assignedExpertId": "exp-03",
+    "assignedExpertName": "Dr. Aris Thorne",
+    "progress": 25,
+    "nextActivity": "Introductory alignment call to review clinical informatics trends",
+    "description": "1-on-1 industry perspective, unadvertised opportunity referrals, and healthcare leadership insights.",
+    "tier": "Executive Mentorship"
+  },
+  {
+    "id": "srv-04",
+    "name": "Skill Training",
+    "status": "Active",
+    "assignedExpertId": "exp-04",
+    "assignedExpertName": "David Chen",
+    "progress": 60,
+    "nextActivity": "Hands-on HIPAA EDI 837 claims data pipeline project submission",
+    "description": "Targeted technical upskilling in healthcare analytics, SQL, ETL pipelines, and clinical quality metrics.",
+    "tier": "Technical Upskilling"
+  },
+  {
+    "id": "srv-05",
+    "name": "Interview Preparation",
+    "status": "Active",
+    "assignedExpertId": "exp-05",
+    "assignedExpertName": "Sarah Jenkins",
+    "progress": 45,
+    "nextActivity": "Behavioral mock interview simulation with immediate score rubric",
+    "description": "Simulated technical and behavioral rounds, STAR story crafting, and salary negotiation tactics.",
+    "tier": "Core Service"
+  },
+  {
+    "id": "srv-06",
+    "name": "Career Marketing",
+    "status": "Active",
+    "assignedExpertId": "exp-06",
+    "assignedExpertName": "Priya Nair",
+    "progress": 90,
+    "nextActivity": "Targeted outreach messaging template review for hiring managers",
+    "description": "Resume optimization, LinkedIn profile algorithms, executive bios, and portfolio site architecture.",
+    "tier": "Core Service"
+  },
+  {
+    "id": "srv-07",
+    "name": "CPI Development",
+    "status": "Active",
+    "assignedExpertId": null,
+    "assignedExpertName": "Staffing Bees Diagnostic AI & Advisory",
+    "progress": 78,
+    "nextActivity": "Reassessment of Communication & Interview Readiness dimensions",
+    "description": "Continuous diagnostic tracking, dimension roadmap monitoring, and employability indexing.",
+    "tier": "Core Platform Diagnostic"
+  }
+]
